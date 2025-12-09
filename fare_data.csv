@@ -1,0 +1,488 @@
+district 1:
+
+Balayan - BSU:
+
+Balayan to Grand Terminal,bus,106.00
+
+Grand Terminal to BSU,jeepney,13.00
+
+BSU - Balayan:
+
+BSU to Grand Terminal,jeepney,13.00
+
+Grand Terminal to Balayan,bus,106.00
+
+Calaca - BSU:
+
+Calaca to Balayan,jeepney,20.00
+
+Balayan to Grand Terminal,bus,106.00
+
+Grand Terminal to BSU,jeepney,13.00
+
+BSU - Calaca:
+
+BSU to Grand Terminal,jeepney,13.00
+
+Grand Terminal to Balayan,bus,106.00
+
+Balayan to Calaca,jeepney,20.00
+
+Calatagan - BSU:
+
+Calatagan to Balayan,jeepney,66.00
+
+Balayan to Grand Terminal,bus,106.00
+
+Grand Terminal to BSU,jeepney,13.00
+
+BSU - Calatagan:
+
+BSU to Grand Terminal,jeepney,13.00
+
+Grand Terminal to Balayan,bus,106.00
+
+Balayan to Calatagan,jeepney,66.00
+
+Lian - BSU:
+
+Lian to Balayan,jeepney,40.00
+
+Balayan to Grand Terminal,bus,106.00
+
+Grand Terminal to BSU,jeepney,13.00
+
+BSU - Lian:
+
+BSU to Grand Terminal,jeepney,13.00
+
+Grand Terminal to Balayan,bus,106.00
+
+Balayan to Lian,jeepney,40.00
+
+Nasugbu - BSU:
+
+Nasugbu to Batangas City,bus,154.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Nasugbu:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Nasugbu,bus,154.00
+
+Tuy - BSU:
+
+Tuy to Balayan,jeepney,21.00
+
+Balayan to Grand Terminal,bus,106.00
+
+Grand Terminal to BSU,jeepney,13.00
+
+BSU - Tuy:
+
+BSU to Grand Terminal,jeepney,13.00
+
+Grand Terminal to Balayan,bus,106.00
+
+Balayan to Tuy,jeepney,21.00
+
+Taal - BSU:
+
+Taal to Lemery,jeepney,16.00
+
+Lemery to Batangas City,bus,60.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Taal:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lemery,bus,60.00
+
+Lemery to Taal,jeepney,16.00
+
+Lemery - BSU:
+
+Lemery to Batangas City,bus,60.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Lemery:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lemery,bus,60.00
+
+district 2:
+
+Bauan - BSU:
+
+Bauan to Batangas City,jeepney,17.00
+
+Batangas City to BSU,jeepney,11.00
+
+BSU - Bauan:
+
+BSU to Batangas City,jeepney,11.00
+
+Batangas City to Bauan,jeepney,17.00
+
+Lobo - BSU:
+
+Lobo to Batangas City,jeepney,55.00
+
+Batangas City to BSU,jeepney,11.00
+
+BSU - Lobo:
+
+BSU to Batangas City,jeepney,11.00
+
+Batangas City to Lobo,jeepney,55.00
+
+Mabini - BSU:
+
+Mabini to Bauan,jeepney,30.00
+
+Bauan to Batangas City,jeepney,17.00
+
+Batangas City to BSU,jeepney,11.00
+
+BSU - Mabini:
+
+BSU to Batangas City,jeepney,11.00
+
+Batangas City to Bauan,jeepney,17.00
+
+Bauan to Mabini,jeepney,30.00
+
+San Luis - BSU:
+
+San Luis to Lemery,jeepney,13.00
+
+Lemery to Batangas City,bus,60.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - San Luis:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lemery,bus,60.00
+
+Lemery to San Luis,jeepney,13.00
+
+San Pascual - BSU:
+
+San Pascual to Batangas City,jeepney,17.00
+
+Batangas City to BSU,jeepney,11.00
+
+BSU - San Pascual:
+
+BSU to Batangas City,jeepney,11.00
+
+Batangas City to San Pascual,jeepney,17.00
+
+Tingloy - BSU:
+
+Tingloy to Batangas City Port,boat,70.00
+
+Batangas City Port to Batangas City,jeepney,25.00
+
+Batangas City to BSU,jeepney,11.00
+
+BSU - Tingloy:
+
+BSU to Batangas City,jeepney,11.00
+
+Batangas City to Batangas City Port,jeepney,25.00
+
+Batangas City Port to Tingloy,boat,70.00
+
+district 3:
+
+Sto. Tomas - BSU:
+
+Sto. Tomas to Tanauan City,jeepney,27.00
+
+Tanauan City to Grand Terminal,bus,120.00
+
+Grand Terminal to BSU,jeepney,13.00
+
+BSU - Sto. Tomas:
+
+BSU to Grand Terminal,jeepney,13.00
+
+Grand Terminal to Tanauan City,bus,120.00
+
+Tanauan City to Sto. Tomas,jeepney,27.00
+
+Tanauan City - BSU:
+
+Tanauan City to Grand Terminal,bus,120.00
+
+Grand Terminal to BSU,jeepney,13.00
+
+BSU - Tanauan City:
+
+BSU to Grand Terminal,jeepney,13.00
+
+Grand Terminal to Tanauan City,bus,120.00
+
+Agoncillo - BSU:
+
+Agoncillo to Batangas City,van,0.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Agoncillo:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Agoncillo,van,0.00
+
+Alitagtag - BSU:
+
+Alitagtag to Lipa City,jeepney,40.00
+
+Lipa City to Batangas City,jeepney,42.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Alitagtag:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lipa City,jeepney,42.00
+
+Lipa City to Alitagtag,jeepney,40.00
+
+Balete - BSU:
+
+Balete to Tanauan City,jeepney,27.00
+
+Tanauan City to Grand Terminal,bus,120.00
+
+Grand Terminal to BSU,jeepney,13.00
+
+BSU - Balete:
+
+BSU to Grand Terminal,jeepney,13.00
+
+Grand Terminal to Tanauan City,bus,120.00
+
+Tanauan City to Balete,jeepney,27.00
+
+Cuenca - BSU:
+
+Cuenca to Lipa City,jeepney,27.00
+
+Lipa City to Batangas City,jeepney,42.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Cuenca:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lipa City,jeepney,42.00
+
+Lipa City to Cuenca,jeepney,27.00
+
+Laurel - BSU:
+
+Laurel to Lemery,jeepney,66.00
+
+Lemery to Batangas City,bus,60.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Laurel:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lemery,bus,60.00
+
+Lemery to Laurel,jeepney,66.00
+
+Talisay - BSU:
+
+Talisay to Tanauan City,jeepney,27.00
+
+Tanauan City to Grand Terminal,bus,120.00
+
+Grand Terminal to BSU,jeepney,13.00
+
+BSU - Talisay:
+
+BSU to Grand Terminal,jeepney,13.00
+
+Grand Terminal to Tanauan City,bus,120.00
+
+Tanauan City to Talisay,jeepney,27.00
+
+Malvar - BSU:
+
+Malvar to Lipa City,bus,20.00
+
+Lipa City to Batangas City,jeepney,42.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Malvar:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lipa City,jeepney,42.00
+
+Lipa City to Malvar,bus,20.00
+
+Mataas na Kahoy - BSU:
+
+Mataas na Kahoy to Lipa City,bus,15.00
+
+Lipa City to Batangas City,jeepney,42.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Mataas na Kahoy:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lipa City,jeepney,42.00
+
+Lipa City to Mataas na Kahoy,bus,15.00
+
+San Nicolas - BSU:
+
+San Nicolas to Lemery,jeepney,53.00
+
+Lemery to Batangas City,bus,60.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - San Nicolas:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lemery,bus,60.00
+
+Lemery to San Nicolas,jeepney,53.00
+
+Santa Teresita - BSU:
+
+Santa Teresita to Lipa City,jeepney,27.00
+
+Lipa City to Batangas City,jeepney,42.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Santa Teresita:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lipa City,jeepney,42.00
+
+Lipa City to Santa Teresita,jeepney,27.00
+
+district 4:
+
+Ibaan - BSU:
+
+Ibaan to Batangas,jeepney,45.00
+
+Batangas to BSU,jeepney,11.00
+
+BSU - Ibaan:
+
+BSU to Batangas,jeepney,11.00
+
+Batangas to Ibaan,jeepney,45.00
+
+Padre Garcia - BSU:
+
+Padre Garcia to Batangas,jeepney,66.00
+
+Batangas to BSU,jeepney,11.00
+
+BSU - Padre Garcia:
+
+BSU to Batangas,jeepney,11.00
+
+Batangas to Padre Garcia,jeepney,66.00
+
+Rosario - BSU:
+
+Rosario to Batangas,jeepney,80.00
+
+Batangas to BSU,jeepney,11.00
+
+BSU - Rosario:
+
+BSU to Batangas,jeepney,11.00
+
+Batangas to Rosario,jeepney,80.00
+
+San Jose - BSU:
+
+San Jose to Batangas,jeepney,58.00
+
+Batangas to BSU,jeepney,11.00
+
+BSU - San Jose:
+
+BSU to Batangas,jeepney,11.00
+
+Batangas to San Jose,jeepney,58.00
+
+San Juan - BSU:
+
+San Juan to Batangas,jeepney,133.00
+
+Batangas to BSU,jeepney,11.00
+
+BSU - San Juan:
+
+BSU to Batangas,jeepney,11.00
+
+Batangas to San Juan,jeepney,133.00
+
+Taysan - BSU:
+
+Taysan to Batangas,jeepney,93.00
+
+Batangas to BSU,jeepney,11.00
+
+BSU - Taysan:
+
+BSU to Batangas,jeepney,11.00
+
+Batangas to Taysan,jeepney,93.00
+
+district 5:
+
+Batangas City - BSU:
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Batangas City:
+
+BSU to Batangas City,jeepney,13.00
+
+district 6:
+
+Lipa City - BSU:
+
+Lipa City to Batangas City,jeepney,42.00
+
+Batangas City to BSU,jeepney,13.00
+
+BSU - Lipa City:
+
+BSU to Batangas City,jeepney,13.00
+
+Batangas City to Lipa City,jeepney,42.00
+
